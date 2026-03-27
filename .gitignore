@@ -1,0 +1,48 @@
+# Windows system files
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+*.LOG1
+*.LOG2
+*.blf
+*.regtrans-ms
+desktop.ini
+thumbs.db
+
+# Windows folders
+AppData/
+Application Data
+Local Settings
+My Documents
+NetHood
+PrintHood
+Recent
+SendTo
+Templates
+Cookies
+시작 메뉴/
+
+# Cache and config
+.cache/
+.claude/
+.claude.json
+.bash_history
+.local/
+
+# System profile folders
+3D Objects/
+Contacts/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Desktop personal files
+Desktop/
+Documents/
+Downloads/
